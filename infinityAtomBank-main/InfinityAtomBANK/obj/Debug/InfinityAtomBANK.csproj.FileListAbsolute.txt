@@ -1,0 +1,16 @@
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\bin\Debug\InfinityAtomBANK.exe.config
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\bin\Debug\InfinityAtomBANK.exe
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\bin\Debug\InfinityAtomBANK.pdb
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.csprojAssemblyReference.cache
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.Properties.Resources.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.csproj.GenerateResource.cache
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.exe
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.pdb
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.DashboardAdmin.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.DashboardStd.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.LogIn.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.stergeCont.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.adaugaConturi.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.PINChange.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.Card.resources
+C:\Users\Fabian\source\repos\InfinityAtomBANK\InfinityAtomBANK\obj\Debug\InfinityAtomBANK.ViewAccounts.resources
